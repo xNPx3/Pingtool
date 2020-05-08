@@ -8,6 +8,10 @@ Basic tool for pinging hostnames and IP addresses with ports.
 
 `pip install -r requirements.txt`
 
+### Usage
+
+`python3 main.py <args>`
+
 ### Help
 |   Argument   | Alternative | Parameter type |                    Info                    |
 |--------------|-------------|----------------|--------------------------------------------|
