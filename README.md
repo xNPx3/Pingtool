@@ -2,6 +2,8 @@
 
 Basic tool for pinging hostnames and IP addresses with ports.
 
+## Installing
+
 # Help
 |   Argument   | Alternative | Parameter type |                    Info                    |
 |--------------|-------------|----------------|--------------------------------------------|
