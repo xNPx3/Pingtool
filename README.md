@@ -4,7 +4,7 @@ Basic tool for pinging hostnames and IP addresses with ports.
 
 ### Installing
 
-`git clone <idk>`
+`git clone https://github.com/xNPx3/Pingtool.git`
 
 `pip install -r requirements.txt`
 
