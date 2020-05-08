@@ -4,9 +4,9 @@ Basic tool for pinging hostnames and IP addresses with ports.
 
 ### Installing
 
-`git clone <idk>
+`git clone <idk>`
 
-pip install -r requirements.txt`
+`pip install -r requirements.txt`
 
 ### Help
 |   Argument   | Alternative | Parameter type |                    Info                    |
