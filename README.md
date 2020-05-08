@@ -3,7 +3,10 @@
 Basic tool for pinging hostnames and IP addresses with ports.
 
 # Help
-+--------------+-------------+----------------+----------------------------------+
+
+
+|   Argument   | Alternative | Parameter type |               Info               |
+|--------------|-------------|----------------|----------------------------------|
 |    --help    |      -h     |      None      |          Displays help           |
 |  --verbose   |      -v     |      None      |       Enables verbose mode       |
 |    --port    |      -p     |    Integer     |        Sets port to scan         |
@@ -14,4 +17,3 @@ Basic tool for pinging hostnames and IP addresses with ports.
 | --ip-address |      -i     |      Str       |     Sets IP address to scan      |
 |  --database  |      -d     |      None      |      Enables database mode       |
 |  --portscan  |      -s     |      None      |      Enables portscan mode       |
-+--------------+-------------+----------------+----------------------------------+
