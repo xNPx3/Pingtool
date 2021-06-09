@@ -2,6 +2,8 @@
 
 Basic tool for pinging hostnames and IP addresses with ports.
 
+*The software is provided "as is" and I (xNPx3) am not responsible for any of your actions made using this tool.*
+
 ### Installing
 
 `git clone https://github.com/xNPx3/Pingtool.git`
