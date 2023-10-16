@@ -2,7 +2,7 @@
 
 Basic tool for pinging hostnames and IP addresses with ports.
 
-*The software is provided "as is" and I (xNPx3) am not responsible for any of your actions made using this tool.*
+*The software is provided "as is" and I am not responsible for any of actions made using this tool.*
 
 ### Installing
 
